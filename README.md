@@ -20,3 +20,8 @@
 1. merge sort - O(n*log n)
 2. randomised quick sort - O(n*log n)
 3. partial quick sort - O(n)
+
+#### * week-5 :
+1. count character with max. occurence in an array - O(n)
+2. pair_sum - to find whether two elements exist such that their sum is equal to the given key element- O(n*log n)
+3. common_element - to find list of elements which are common to two sorted integer arrays of size m and n - O(m+n)
