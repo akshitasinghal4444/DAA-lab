@@ -1,7 +1,7 @@
 # DAA-lab
 ## This repo contains assignments and programs for Design and Analysis of Algorithms Lab
 #### * week-1 : searching algorithms 
-1. linear search - O(n) 
+1. linear search - O(n) (https://github.com/akshitasinghal4444/DAA-lab/blob/main/week-1/linear_search.cpp) 
 2. binary search - O(log n)  
 3. jump search - O(sqrt(n))  
 4. exponential search - O(log n)
