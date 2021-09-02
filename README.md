@@ -26,3 +26,7 @@
 1. count character with max. occurence in an array - O(n)
 2. pair_sum - to find whether two elements exist such that their sum is equal to the given key element- O(n*log n)
 3. common_element - to find list of elements which are common to two sorted integer arrays of size m and n - O(m+n)
+
+#### * [week-6](week-6) : bfs / dfs
+1. dfs - to find if there is a path between 2 nodes
+2. bipartite - to check if the graph is bipartite or not
