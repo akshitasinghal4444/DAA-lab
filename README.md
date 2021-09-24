@@ -30,3 +30,7 @@
 #### * [week-6](week-6) : bfs / dfs
 1. dfs - to find if there is a path between 2 nodes
 2. bipartite - to check if the graph is bipartite or not
+
+#### * [week-7](week-7) : shortest path problems in graph
+1. dijkstra - to find shortest paths of all nodes from a source node
+2. bellman ford - to find shortest paths of all nodes from a source node
