@@ -34,3 +34,9 @@
 #### * [week-7](week-7) : shortest path problems in graph
 1. dijkstra - to find shortest paths of all nodes from a source node
 2. bellman ford - to find shortest paths of all nodes from a source node
+
+
+#### * [week-8](week-8) : minimum spanning trees
+1. prim's - to find minimum spanning weight
+2. kruskal's - to find minimum spanning weight
+3. maxWeight - to find maximum spanning weight (using kruskal's)
