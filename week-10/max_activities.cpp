@@ -6,10 +6,10 @@ int main()
     int n;
     cin>>n;
 
-    int i,t[n],f[n];
+    int i,s[n],f[n];
 
     for(i=0;i<n;i++)
-    cin>>t[i];
+    cin>>s[i];
 
     for(i=0;i<n;i++)
     cin>>f[i];
@@ -17,7 +17,7 @@ int main()
     vector<vector<int>> a;
     vector<int> act;
     for(i=0;i<n;i++)
-    a.push_back({f[i],f[i]-t[i],i+1});
+    a.push_back({f[i],s[i],i+1});
 
     sort(a.begin(),a.end());
 
@@ -31,7 +31,6 @@ int main()
             act.push_back(a[i][2]);
         }
     }
-    sort(act.begin(),act.end());
 
     cout<<"No. of non-conflicting activities : "<<c<<endl;
     cout<<"List of selected activities : ";
