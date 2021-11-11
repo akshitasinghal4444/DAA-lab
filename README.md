@@ -40,3 +40,18 @@
 1. prim's - to find minimum spanning weight
 2. kruskal's - to find minimum spanning weight
 3. maxWeight - to find maximum spanning weight (using kruskal's)
+
+#### * [week-9](week-9) :
+1. floyd_warshall - to find all pair shortest path
+2. fractional_knapsack - to find list of selected items with given weight and maximum value
+3. merge_files - to merge all files into single file with minimum computation
+
+#### * [week-10](week-10) :
+1. max_activities - to find max no. of non-conflicting activities , given starting and finishing time
+2. max_tasks - to find max no. of tasks that can be performed , given time and deadlines
+3. majority_element - to find whether majority element exists or not . Also find median .
+
+#### * [week-11](week-11) :
+1. multiply_matrices - to find min no. of operations to multiply list of matrices
+2. coin - to find no. of ways to add coins  to make a sum (unbounded knapsack) .
+3. equal_sum_subset - to partition a set of elements into 2 subsets of equal sum .
